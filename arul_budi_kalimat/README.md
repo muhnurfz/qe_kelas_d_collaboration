@@ -1,5 +1,5 @@
-#Arul Budi Kalimat
+# Arul Budi Kalimat
 
-## Insitut Teknologi Garut - Teknik Informatika
+# Insitut Teknologi Garut - Teknik Informatika
 
 ## Ingin mendalami perihal QE dan mengikuti kegiatan MBKM di Alterra
